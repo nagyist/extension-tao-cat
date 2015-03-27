@@ -221,7 +221,7 @@ class TestRunner extends tao_actions_ServiceModule
             $testCompilationUri)
         );
         
-        $this->setView('test_runner.tpl', 'irtTest');
+        $this->setView('test_runner.tpl', 'taoCat');
     }
     
     /**
